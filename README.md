@@ -1,7 +1,7 @@
 # Node-Express-Base
 
 
-Exercicio em NodeJs e Express. 
+Exercício em NodeJs e Express. 
 
 Principal funcionalidades do métodos de requisição HTTP, simulando um banco de dados com Json.
 
